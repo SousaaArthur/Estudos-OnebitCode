@@ -1,0 +1,41 @@
+body{
+  background-image: url(https://i.pinimg.com/originals/56/af/aa/56afaa04bf2745345b714ed273cef7ea.png);
+  background-size: cover;
+}
+
+header{
+  background-color: #000000;
+  color: #FAFAFA;
+}
+
+main{
+  background-color: #e5e5e5;
+  border-width: 4px;
+  border-color: #1c1a1d;
+  border-style: dashed;
+  border-radius: 15px;
+}
+
+.box1 {
+  background: linear-gradient(to left, #2c2c2c, #5e53f8);
+  border: 1px solid #1c1a1d;
+  height: 30px;
+  width: 70px;
+  border-radius: 8px;
+}
+
+.box2 {
+  background: linear-gradient(to left, #2c2c2c, #f64348);
+  border: 1px solid #1c1a1d;
+  height: 30px;
+  width: 70px;
+  border-radius: 8px;
+}
+
+.box3 {
+  background: linear-gradient(to left, #2c2c2c, #58f643);
+  border: 1px solid #1c1a1d;
+  height: 30px;
+  width: 70px;
+  border-radius: 8px;
+}
